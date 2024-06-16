@@ -5,7 +5,7 @@ Hi, I’m @Shohail-Ismail !
 - 💞️ I am looking to collaborate on innovative 🧠 AI projects, particularly those that help solve current UN 🌐 SDG-related issues!
 - 📫 You can reach me through email 📩 (shohailusman@gmail.com) and LinkedIn 🔗 (www.linkedin.com/in/shohail-ismail/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once trained an AI model to recommend me movies, but it kept suggesting "The Matrix" on repeat. I make sure to keep an eye on it now.
+- ⚡ Fun fact: Once, I tried to train an AI model to recommend me movies, but it kept suggesting "The Matrix" on repeat. I keep a close eye on that one now.
 
 <!---
 Shohail-Ismail/Shohail-Ismail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
